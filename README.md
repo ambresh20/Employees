@@ -61,10 +61,10 @@ src/
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Set up environment variables
-4. Run: `npm start`
+4. Run: `npm run dev`
 
 ### Frontend Setup
 1. Navigate to frontend directory: `cd auth_emp_frontend`
 2. Install dependencies: `npm install`
-3. Run: `npm start`
+3. Run: `npm run dev`
 
